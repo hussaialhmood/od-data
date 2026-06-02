@@ -1,0 +1,146 @@
+{
+  "tasks": [],
+  "employees": [],
+  "issues": [],
+  "kpis": [
+    {
+      "id": 1,
+      "name": "Strategic work % of week",
+      "target": 40,
+      "cur": 0,
+      "unit": "%"
+    },
+    {
+      "id": 2,
+      "name": "Successful delegation rate",
+      "target": 70,
+      "cur": 0,
+      "unit": "%"
+    },
+    {
+      "id": 3,
+      "name": "Delivery forecast accuracy",
+      "target": 95,
+      "cur": 0,
+      "unit": "%"
+    },
+    {
+      "id": 4,
+      "name": "SOPs documented",
+      "target": 100,
+      "cur": 0,
+      "unit": "%"
+    },
+    {
+      "id": 5,
+      "name": "Employee files complete",
+      "target": 100,
+      "cur": 0,
+      "unit": "%"
+    },
+    {
+      "id": 6,
+      "name": "Issues flagged proactively",
+      "target": 100,
+      "cur": 0,
+      "unit": "%"
+    },
+    {
+      "id": 7,
+      "name": "Monthly HR KPIs completed",
+      "target": 100,
+      "cur": 0,
+      "unit": "%"
+    },
+    {
+      "id": 8,
+      "name": "Reports sent to head",
+      "target": 12,
+      "cur": 0,
+      "unit": ""
+    }
+  ],
+  "delegation": [
+    {
+      "id": 1,
+      "task": "Dept. Head Projects",
+      "owner": "me",
+      "boundary": "No delegation — full responsibility."
+    },
+    {
+      "id": 2,
+      "task": "Monthly Executive Report",
+      "owner": "me",
+      "boundary": "Team collects data — you write analysis."
+    },
+    {
+      "id": 3,
+      "task": "Payroll Approval",
+      "owner": "me",
+      "boundary": "Team prepares — you review and approve."
+    },
+    {
+      "id": 4,
+      "task": "Pre-employment Decision",
+      "owner": "me",
+      "boundary": "Team collects — you decide."
+    },
+    {
+      "id": 5,
+      "task": "Update Org Chart",
+      "owner": "a",
+      "boundary": "Executes fully — you approve in 2 min."
+    },
+    {
+      "id": 6,
+      "task": "Prepare GOSI Data",
+      "owner": "a",
+      "boundary": "Collects and formats — you review totals."
+    },
+    {
+      "id": 7,
+      "task": "New Employee User Accounts",
+      "owner": "a",
+      "boundary": "Creates after doc check — you approve."
+    },
+    {
+      "id": 8,
+      "task": "Employment Certificates",
+      "owner": "b",
+      "boundary": "Prepares and sends independently."
+    },
+    {
+      "id": 9,
+      "task": "Routine HR Queries",
+      "owner": "b",
+      "boundary": "Answers standard — escalates non-standard."
+    },
+    {
+      "id": 10,
+      "task": "Leave Requests",
+      "owner": "b",
+      "boundary": "Processes — escalates exceptions only."
+    },
+    {
+      "id": 11,
+      "task": "Medical Insurance Updates",
+      "owner": "b",
+      "boundary": "Follows up — you approve category changes."
+    },
+    {
+      "id": 12,
+      "task": "Employee Document Audit",
+      "owner": "team",
+      "boundary": "A collects, B verifies — you approve 20%."
+    }
+  ],
+  "wt": {},
+  "rep": {
+    "s1": "",
+    "s2": "",
+    "s3": "",
+    "s4": ""
+  },
+  "actLog": [],
+  "nid": 1
+}
