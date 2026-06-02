@@ -1,6 +1,15 @@
 {
   "tasks": [],
-  "employees": [],
+  "employees": [
+    {
+      "id": "e1",
+      "name": "Ayat Alshawkan",
+      "role": "Specialist, Organization Development",
+      "email": "Ayat.alshawkan@starlinks-me.com",
+      "focus": "Operations & Data",
+      "col": "#c05621"
+    }
+  ],
   "issues": [],
   "kpis": [
     {
@@ -65,43 +74,43 @@
       "id": 1,
       "task": "Dept. Head Projects",
       "owner": "me",
-      "boundary": "No delegation — full responsibility."
+      "boundary": "No delegation â full responsibility."
     },
     {
       "id": 2,
       "task": "Monthly Executive Report",
       "owner": "me",
-      "boundary": "Team collects data — you write analysis."
+      "boundary": "Team collects data â you write analysis."
     },
     {
       "id": 3,
       "task": "Payroll Approval",
       "owner": "me",
-      "boundary": "Team prepares — you review and approve."
+      "boundary": "Team prepares â you review and approve."
     },
     {
       "id": 4,
       "task": "Pre-employment Decision",
       "owner": "me",
-      "boundary": "Team collects — you decide."
+      "boundary": "Team collects â you decide."
     },
     {
       "id": 5,
       "task": "Update Org Chart",
       "owner": "a",
-      "boundary": "Executes fully — you approve in 2 min."
+      "boundary": "Executes fully â you approve in 2 min."
     },
     {
       "id": 6,
       "task": "Prepare GOSI Data",
       "owner": "a",
-      "boundary": "Collects and formats — you review totals."
+      "boundary": "Collects and formats â you review totals."
     },
     {
       "id": 7,
       "task": "New Employee User Accounts",
       "owner": "a",
-      "boundary": "Creates after doc check — you approve."
+      "boundary": "Creates after doc check â you approve."
     },
     {
       "id": 8,
@@ -113,25 +122,25 @@
       "id": 9,
       "task": "Routine HR Queries",
       "owner": "b",
-      "boundary": "Answers standard — escalates non-standard."
+      "boundary": "Answers standard â escalates non-standard."
     },
     {
       "id": 10,
       "task": "Leave Requests",
       "owner": "b",
-      "boundary": "Processes — escalates exceptions only."
+      "boundary": "Processes â escalates exceptions only."
     },
     {
       "id": 11,
       "task": "Medical Insurance Updates",
       "owner": "b",
-      "boundary": "Follows up — you approve category changes."
+      "boundary": "Follows up â you approve category changes."
     },
     {
       "id": 12,
       "task": "Employee Document Audit",
       "owner": "team",
-      "boundary": "A collects, B verifies — you approve 20%."
+      "boundary": "A collects, B verifies â you approve 20%."
     }
   ],
   "wt": {},
@@ -141,6 +150,12 @@
     "s3": "",
     "s4": ""
   },
-  "actLog": [],
-  "nid": 1
+  "actLog": [
+    {
+      "msg": "Employee added: Ayat Alshawkan",
+      "type": "ok",
+      "time": "12:43"
+    }
+  ],
+  "nid": 2
 }
