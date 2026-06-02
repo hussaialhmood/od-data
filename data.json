@@ -152,6 +152,11 @@
   },
   "actLog": [
     {
+      "msg": "Report saved",
+      "type": "ok",
+      "time": "12:43"
+    },
+    {
       "msg": "Employee added: Ayat Alshawkan",
       "type": "ok",
       "time": "12:43"
